@@ -22,7 +22,7 @@ defaultContentLanguageInSubdir = false
   name = "Marcel de Haas"
   role = "Professor of Artificial Intelligence"
   organization = "KPN Werkplek"
-  organization_url = "https://kpnwerkplek.com/"
+  organization_url = "https://www.kpn.com/zakelijk/grootzakelijk/online-werkplek/kpn-werkplek.htm"
   avatar = "portrait.png"
   email = ""
   address = ""
@@ -190,3 +190,7 @@ defaultContentLanguageInSubdir = false
 # Configure the English version of the website.
 [languages.en]
   languageCode = "en-us"
+
+[permalinks]
+  post = "/:year/:month/:day/:filename/"
+  page = "/:filename/"

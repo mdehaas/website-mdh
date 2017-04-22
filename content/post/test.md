@@ -4,6 +4,7 @@ highlight = true
 math = false
 tags = []
 title = "test"
+draft = true
 
 [header]
   caption = ""

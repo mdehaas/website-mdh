@@ -1,6 +1,6 @@
 +++
 date = "2016-04-20T12:00:00"
-draft = false
+draft = true
 tags = ["academic", "hugo"]
 title = "Getting started with the Academic framework for Hugo"
 math = true
