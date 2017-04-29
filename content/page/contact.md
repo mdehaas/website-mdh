@@ -1,18 +1,6 @@
 +++
-# Contact widget.
-
-date = "2016-04-20T00:00:00"
-draft = false
-
+date = "2016-06-19T14:54:25+02:00"
 title = "Contact"
-subtitle = ""
-widget = "contact"
-
-# Order that this section will appear in.
-weight = 70
-
-# Automatically link email and phone?
-autolink = true
 
 +++
 
@@ -23,6 +11,6 @@ autolink = true
     Name: <input type="text" name="name" /><br />
     Email: <input type="email" name="_replyto" placeholder="Your email" /><br />
 	Message:<br />
-	<textarea name="message" cols=52 rows=10></textarea><br />
+	<textarea name="message" cols=72 rows=10></textarea><br />
     <input type="submit" value="Send" />
 </form>

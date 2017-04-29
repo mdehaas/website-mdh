@@ -20,7 +20,7 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Marcel de Haas"
-  role = "Professor of Artificial Intelligence"
+  role = "Technical Specialist"
   organization = "KPN Werkplek"
   organization_url = "https://www.kpn.com/zakelijk/grootzakelijk/online-werkplek/kpn-werkplek.htm"
   avatar = "portrait.png"
@@ -175,7 +175,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Contact"
-  url = "#contact"
+  url = "contact"
   weight = 6
 
 # Taxonomies.
