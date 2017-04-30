@@ -5,6 +5,9 @@ theme = "academic"
 enableEmoji = false
 footnotereturnlinkcontents = "<sup>^</sup>"
 
+#Set publish folder for Bytemark Symbiosis
+publishdir = "/srv/marceldehaas.com/public/htdocs"
+
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 
