@@ -85,7 +85,7 @@ defaultContentLanguageInSubdir = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  custom_css = []
+  custom_css = ["overrides.css"]
   custom_js  = []
 
   # Publication types.
@@ -160,7 +160,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Posts"
-  url = "#posts"
+  url = "post"
   weight = 3
 
 #[[menu.main]]
